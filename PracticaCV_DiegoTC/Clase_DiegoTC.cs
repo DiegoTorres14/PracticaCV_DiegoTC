@@ -8,6 +8,17 @@ namespace PracticaCV_DiegoTC
 {
     internal class Clase_DiegoTC
     {
+        // CONSTANTES DE LA CLASE
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MÉTODOS PRIVADOS
+
+        // MÉTODOS PÚBLICOS
 
     }
 }
